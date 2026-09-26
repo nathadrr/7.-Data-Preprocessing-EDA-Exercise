@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 
-df = pd.read_csv("Week_4_DataPreprocessing(2)_EDA/travel_expenses.csv")
+df = pd.read_csv("travel_expenses.csv")
 
 df_transform = df.copy()
 
@@ -23,5 +23,5 @@ label_encoder = LabelEncoder()
 for col in nominal_mapping:
   df_transform[col] = label_encoder.fit_transform(df_transform[col])
 
-df_transform.to_csv("travel_expenses_transformed.csv")
+df_transform.to_csv("travel_expenses_transformed.csv", index=False)
 
