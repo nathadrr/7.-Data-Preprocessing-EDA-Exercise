@@ -1,0 +1,26 @@
+Expense ID,Employee Name,Department,Destination,Expense Category,Amount ($),Payment Mode,Approval Status
+EXP-301,Charlie Brown,Marketing,Tokyo,Transport,56.43,Corporate Card,Approved
+EXP-302,Diana Prince,Sales,San Francisco,Flight,528.9,Personal Reimbursement,Pending
+EXP-303,Evan Wright,Executive,New York,Hotel,285.5,Personal Reimbursement,Pending
+EXP-304,Fiona Gallagher,Engineering,London,Meals,75.48,Corporate Card,Approved
+EXP-305,George Clark,Executive,San Francisco,Hotel,349.67,Personal Reimbursement,Pending
+EXP-306,Hannah Abbott,Marketing,New York,Transport,86.75,Corporate Card,Pending
+EXP-307,Ian Malcolm,Engineering,London,Flight,663.58,Corporate Card,Pending
+EXP-308,Julia Roberts,Sales,Tokyo,Meals,88.92,Personal Reimbursement,Approved
+EXP-309,Kevin Bacon,Executive,Tokyo,Hotel,226.58,Corporate Card,Approved
+EXP-310,Laura Croft,Sales,London,Transport,28.41,Corporate Card,Approved
+EXP-311,Michael Scott,Engineering,San Francisco,Meals,50.27,Personal Reimbursement,Approved
+EXP-312,Nina Williams,Marketing,New York,Flight,486.6,Personal Reimbursement,Approved
+EXP-313,Oscar Martinez,Executive,San Francisco,Hotel,351.82,Corporate Card,Pending
+EXP-314,Pam Beesly,Marketing,London,Transport,59.22,Personal Reimbursement,Approved
+EXP-315,Quentin Tarantino,Engineering,Tokyo,Flight,933.1,Personal Reimbursement,Pending
+EXP-316,Rachel Green,Sales,New York,Meals,67.66,Corporate Card,Approved
+EXP-317,Steve Rogers,Engineering,New York,Hotel,151.01,Corporate Card,Approved
+EXP-318,Tom Hardy,Executive,London,Meals,92.38,Personal Reimbursement,Approved
+EXP-319,Bruce Wayne,Sales,Tokyo,Transport,48.95,Corporate Card,Pending
+EXP-320,Clark Kent,Marketing,San Francisco,Flight,667.3,Personal Reimbursement,Approved
+EXP-321,Barry Allen,Executive,Tokyo,Transport,35.18,Personal Reimbursement,Pending
+EXP-322,Arthur Curry,Engineering,San Francisco,Flight,507.3,Corporate Card,Approved
+EXP-323,Victor Stone,Sales,New York,Hotel,201,Personal Reimbursement,Approved
+EXP-324,Sarah Connor,Marketing,London,Meals,132.32,Corporate Card,Pending
+EXP-325,John Doe,Engineering,London,Hotel,240,Personal Reimbursement,Approved
